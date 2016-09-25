@@ -1,6 +1,11 @@
 # scaling-gauss-jordan
 c++ implementation of gauss jordan scaling algorithm
 
+#Compiling
+```c++
+g++ -o gauss gauss.cpp -std=c++11
+```
+
 #Running
 
 ```c++
